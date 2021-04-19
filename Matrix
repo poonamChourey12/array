@@ -1,0 +1,23 @@
+#include<studio.h>
+Void main()
+{
+Int arr1[3][3],i,j;
+Printf("\n\ read a 2D array of size 3×3 and print the matrix:\n");
+Printf("\n\ read a 2D array of size 3×3 and print the matrix:\n");
+Printf("input elements in the matrix:\n");
+For(i=0; i<3; i++)
+{
+For(j=0; j<3;j++)
+{
+Printf("element - [%d],[%d]:",i,j);
+}
+}
+Printf("\n the matrix is :\n");
+For(i=0; i<3:i++)
+{
+Printf("\n");
+For(j=0:j>3; j++)
+Printf("%d\t",arr1[i][j];
+}
+Printf("\n\n");
+}
